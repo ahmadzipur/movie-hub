@@ -1,3 +1,58 @@
+MovieHub - Modern Movie Landing Page built with Next.js featuring routing, interactive UI, animations, movie catalog, modal trailer, and responsive design.
+
+🎬 MovieHub - Next.js Movie Landing Page
+MovieHub is a modern movie website built using Next.js and React. This project demonstrates the implementation of Next.js App Router, reusable components, interactive UI, and responsive web design.
+
+The website provides a cinematic landing page experience with movie information, interactive features, and modern interface design.
+
+🚀 Features
+✅ Modern Landing Page
+
+Cinematic hero section
+Typing animation effect
+Call-to-action buttons
+Movie showcase card
+✅ Next.js Routing
+
+Home page
+About page
+Movies page
+Contact page
+✅ Interactive Components
+
+useState implementation
+useEffect implementation
+Modal popup
+Trailer preview modal
+Dynamic visitor counter
+✅ Movie Catalog
+
+Movie poster
+Rating
+Genre
+Release year
+Duration
+Country
+Director
+Cast information
+Movie description
+✅ Contact Page
+
+Interactive contact form
+Form validation
+Contact information
+Social media section
+✅ Responsive Design
+
+Desktop friendly
+Mobile responsive layout
+🛠️ Technologies Used
+Next.js 16
+React 19
+JavaScript
+CSS3
+Next.js App Router
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
